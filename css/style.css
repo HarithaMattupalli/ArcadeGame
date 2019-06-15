@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-image: url("../img/bg.png");
+    background-repeat: no-repeat;
+    background-size: 1500px;
+}
+.head{
+  color:brown;
+  font-size: 45px;
+  font-family:serif ;
+  text-shadow: 3px 3px 3px white;
+}
