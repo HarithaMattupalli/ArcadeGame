@@ -5,12 +5,12 @@ Arcade game sets the goal of the player to reach water without colliding enemies
 ## Table of Contents
 
 - [Instructions](#instructions)
-- [Download the Scratch](#downloadthescratch)
-- [How to Run](#howtorun)
-- [How to Play](#howtoplay)
+- [Download the Scratch](#download-the-scratch)
+- [How to Run](#how-to-run)
+- [How to Play](#how-to-play)
 - [Tools/Techniques](#tools/techniques)
-- [Project Dependencies](#projectdependencies)
-- [Project Content](#projectcontent)
+- [Project Dependencies](#project-dependencies)
+- [Project Content](#project-content)
 - [Contributing](#contributing)
 
 ## Instructions
