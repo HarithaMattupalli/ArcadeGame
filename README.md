@@ -43,6 +43,7 @@ For detailed instructions on how to get started, check out this [guide](https://
   - `Right` arrow
 - The objective is to get your character safely to the top of the screen using the four keys Up, Down, Left, Right in any random manner. The game ends if your character collides with the moving bugs.
 - If you win or lose, the game resets with the player at the bottom of the screen. The game runs continuously until you close the page.
+- You can have fun with the game [here](https://harithamattupalli.github.io/ArcadeGame/)
 
 ## Tools/Techniques
 
